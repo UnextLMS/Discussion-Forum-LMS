@@ -1,0 +1,29 @@
+[
+    {
+        "keys": {
+           "UniqueId": "{{$guid}}"
+        },
+        "values": {
+         "Target": "All",
+         
+         "CourseName": "ML",
+           "ForumTitle": "ML Discussion",
+            "Link": "www.mldf.com",
+            "CourseId": "00182",
+          "DiscussionForumId":"HI78",
+          "ProgramEnrollId": "p1001",
+          "ProgramPlanName":"Online MBA 2022",
+         
+          "StartDate": "04-12-2022",
+          "EndDate": "04-14-2022",
+          "Action": "Published"
+          
+         
+         
+       
+        
+
+        }
+
+    }
+]
