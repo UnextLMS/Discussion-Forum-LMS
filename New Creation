@@ -1,7 +1,7 @@
 [
     {
         "keys": {
-           "UniqueId": "{{$guid}}" //Random Generated Id
+           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
         },
         "values": 
         {
@@ -13,6 +13,7 @@
          "DiscussionForumId":"HI78",
          "ProgramPlanId":"SF 18 digit Id",
          "TermId":"SF 18 Digit Id",
+         "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
          "Action": "Published"
