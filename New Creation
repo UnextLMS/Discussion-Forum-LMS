@@ -37,7 +37,7 @@ Payload to Target specific set of students
         },
         "values": 
         {
-         "ContactId": "SF 18 Digit Id",
+         "ProgramEnrollmentId": "SF 18 Digit Id",
          "CourseOfferingName": "ML",
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
