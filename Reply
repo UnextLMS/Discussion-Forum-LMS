@@ -15,7 +15,8 @@
          "TermId":"SF 18 Digit Id",
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Reply"
+         "Action": "Reply",
+         "RepliersName":"Unext" //Name of the person who replied to the student query
           
          }
 
