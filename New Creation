@@ -1,12 +1,11 @@
 [
     {
         "keys": {
-           "UniqueId": "{{$guid}}"
+           "UniqueId": "{{$guid}}" //Random Generated Id
         },
         "values": 
         {
          "Target": "All",
-         
          "CourseOfferingName": "ML",
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
