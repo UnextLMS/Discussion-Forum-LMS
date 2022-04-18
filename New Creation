@@ -8,7 +8,7 @@ Payload to Target All Members under a course and program plan
         "values": 
         {
          "Target": "All",
-         "CourseOfferingName": "ML",
+         
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
