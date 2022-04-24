@@ -8,7 +8,6 @@ Payload to Target All Members under a course and program plan
         "values": 
         {
          "Target": "All",
-         
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
@@ -18,7 +17,9 @@ Payload to Target All Members under a course and program plan
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Published"
+         "Action": "Published",
+         "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
@@ -48,7 +49,9 @@ Payload to Target specific set of students
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Published"
+         "Action": "Published",
+         "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
