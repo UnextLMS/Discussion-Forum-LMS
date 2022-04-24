@@ -19,7 +19,9 @@
          "EndDate": "04-14-2022",
          "Action": "Reminder",
          "Attempted":"True",
-         "ProgramEnrollmentId":"SF 18 Digit Id"
+         "ProgramEnrollmentId":"SF 18 Digit Id",
+          "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
