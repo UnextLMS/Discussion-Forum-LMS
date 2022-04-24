@@ -17,8 +17,11 @@ Payload to Target All Members under a course and program plan
          "TermId":"SF 18 Digit Id",
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Reply",
-         "ProgramEnrollmentId":"SF Digit 18 Id"
+         "Action": "Thread Reply",
+         "ProgramEnrollmentId":"SF Digit 18 Id",
+          "Repliers Name":"",
+          "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
@@ -45,10 +48,12 @@ Payload to Target specific set of students
          "DiscussionForumId":"HI78",
          "ProgramPlanId":"SF 18 digit Id",
          "TermId":"SF 18 Digit Id",
-       
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Reply"
+         "Action": "Thread Reply",
+          "Repliers Name":"",
+          "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
