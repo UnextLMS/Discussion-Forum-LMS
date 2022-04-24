@@ -18,7 +18,9 @@ Payload to Target All Members under a course and program plan
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
          "Action": "Report Edited",
-         "ProgramEnrollmentId":"SF Digit 18 Id"
+         "ProgramEnrollmentId":"SF Digit 18 Id",
+          "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
@@ -48,7 +50,9 @@ Payload to Target specific set of students
        
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
-         "Action": "Report Edited"
+         "Action": "Report Edited",
+          "Choice":"Mandatory",
+         "Type":"Gradable"
           
          }
 
