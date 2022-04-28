@@ -19,7 +19,7 @@ Payload to target all the students under a course/program plan
          "Action": "Edited",
          "Choice":"Mandatory",
          "Type":"Gradable",
-         "SubAction":"StartDate/EndDate/Choice/Type",
+         "SubAction":"StartDate/EndDate/Choice/Type/UserType",
          "NewStartDate":"",   //Send this fields in the payload when startdate is edited
          "NewEndDate":""      //Send this fields in the payload when enddate is edited
          }
