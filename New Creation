@@ -12,8 +12,6 @@ Payload to Target All Members under a course and program plan
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
          "DiscussionForumId":"HI78",
-         "ProgramPlanId":"SF 18 digit Id",
-         "TermId":"SF 18 Digit Id",
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
@@ -38,14 +36,13 @@ Payload to Target specific set of students
         },
         "values": 
         {
-         "ProgramEnrollmentId": "SF 18 Digit Id",
-         "CourseOfferingName": "ML",
+         "ContactId": "SF 18 Digit Id",
+         
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
          "DiscussionForumId":"HI78",
-         "ProgramPlanId":"SF 18 digit Id",
-         "TermId":"SF 18 Digit Id",
+       
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
