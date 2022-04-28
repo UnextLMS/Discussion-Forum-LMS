@@ -8,13 +8,12 @@ Payload to target all the students under a course/program plan
         "values": 
         {
          "Target": "All",
-         "CourseOfferingName": "ML",
+         
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
          "DiscussionForumId":"HI78",
-         "ProgramPlanId":"SF 18 digit Id",
-         "TermId":"SF 18 Digit Id",
+       
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
          "Action": "Edited",
@@ -41,14 +40,13 @@ Payload to target specific students under a course/program plan
         },
         "values": 
         {
-         "ProgramEnrollMentId": "SF 18 Digit Id",
-         "CourseOfferingName": "ML",
+         "ContactId": "SF 18 Digit Id",
+        
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
          "DiscussionForumId":"HI78",
-         "ProgramPlanId":"SF 18 digit Id",
-         "TermId":"SF 18 Digit Id",
+         
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
          "Action": "Edited",
