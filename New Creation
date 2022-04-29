@@ -54,3 +54,36 @@ Payload to Target specific set of students
 
     }
 ]
+
+
+_____________________________________________________________________________________________________
+
+
+Payload to Target specific group of students based on groupid
+
+[
+    {
+        "keys": {
+           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
+        },
+        "values": 
+        {
+         "groupId": "SF 18 Digit Id",
+         
+         "ForumTitle": "ML Discussion",
+         "ForumLink": "www.mldf.com",
+         "CourseOfferingId": "SF 18 digit Id",
+         "DiscussionForumId":"HI78",
+       
+         "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
+         "StartDate": "04-12-2022",
+         "EndDate": "04-14-2022",
+         "Action": "Published",
+         "Choice":"Mandatory",
+         "Type":"Gradable"
+          
+         }
+
+    }
+]
+
