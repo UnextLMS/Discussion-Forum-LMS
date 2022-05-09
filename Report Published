@@ -1,29 +1,68 @@
-Payload to Target All Members under a course and program plan
+Report Published for all the students
 
 [
-    {
-        "keys": {
-           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
-        },
-        "values": 
-        {
-         "Target": "All",
-         
-         "ForumTitle": "ML Discussion",
-         "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
-         "DiscussionForumId":"HI78",
-        
-         "StartDate": "04-12-2022",
-         "EndDate": "04-14-2022",
-         "Action": "Report Published",
-         "ContactId":"SF Digit 18 Id",
-          "Choice":"Mandatory",
-         "Type":"Gradable"
-          
-         }
 
-    }
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "Target": "All",
+             "ForumTitle": "Business Economics Discussion",
+             "ReportLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "DiscussionForumId":"q86",
+             "startDate": "04-18-2022",
+             "endDate": "04-21-2022",
+             "action": "Report Published",
+            
+
+        }
+}
 ]
 
+Report Published for specific students
 
+[
+
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "ContactId": "SF 18 Digit Id",
+             "ForumTitle": "Business Economics Discussion",
+             "ReportLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "DiscussionForumId":"q86",
+             "startDate": "04-18-2022",
+             "endDate": "04-21-2022",
+             "action": "Report Published",
+            
+
+        }
+}
+]
+
+Report Published for Group Of Students 
+
+[
+
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "GroupId": "SF 18 Digit Id",
+            "ForumTitle": "Business Economics Discussion",
+             "ReportLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "DiscussionForumId":"q86",
+             "startDate": "04-18-2022",
+             "endDate": "04-21-2022",
+             "action": "Report Published",
+            
+
+        }
+}
+]
