@@ -1,63 +1,19 @@
-Payload to target all the students under a course/program plan
-
 [
-    {
+
+{
         "keys": {
-           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
+            "UniqueId": "{{$guid}}"
         },
-        "values": 
-        {
-         "Target": "All",
-         
-         "ForumTitle": "ML Discussion",
-         "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
-         "DiscussionForumId":"HI78",
-       
-         "StartDate": "04-12-2022",
-         "EndDate": "04-14-2022",
-         "Action": "Edited",
-         "Choice":"Mandatory",
-         "Type":"Gradable",
-         "SubAction":"StartDate/EndDate/Choice/Type/UserType",
-         "NewStartDate":"",   //Send this fields in the payload when startdate is edited
-         "NewEndDate":""      //Send this fields in the payload when enddate is edited
-         }
+        "values": {
+             "ForumTitle": "Business Economics Discussion",
+             "ForumLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "DiscussionForumId":"q86", //Mandatory
+             "startDate": "04-18-2022",
+             "endDate": "04-21-2022",  //Update Enddate as of phase1 if there is any change in enddate
+             "Action": "Edited",
+             
 
-    }
-]
-
-
-____________________________________________________________________
-
-
-Payload to target specific students under a course/program plan
-
-[
-    {
-        "keys": {
-           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
-        },
-        "values": 
-        {
-         "ContactId": "SF 18 Digit Id",
-        
-         "ForumTitle": "ML Discussion",
-         "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
-         "DiscussionForumId":"HI78",
-         
-         "StartDate": "04-12-2022",
-         "EndDate": "04-14-2022",
-         "Action": "Edited",
-         "Choice":"Mandatory",
-         "Type":"Gradable",
-         "SubAction":"StartDate/EndDate/Choice/Type",
-          "NewStartDate":"",   //Send this fields in the payload when startdate is edited
-         "NewEndDate":""      //Send this fields in the payload when enddate is edited
-          
-          
-         }
-
-    }
+        }
+}
 ]
