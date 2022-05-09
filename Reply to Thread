@@ -8,18 +8,13 @@
         "values": 
         {
          "ContactId": "SF 18 Digit Id",
-         
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
          "CourseOfferingId": "SF 18 digit Id",
          "DiscussionForumId":"HI78",
-       
-         "StartDate": "04-12-2022",
-         "EndDate": "04-14-2022",
          "Action": "Thread Reply",
-          "Repliers Name":"",
-          "Choice":"Mandatory",
-         "Type":"Gradable"
+         "Repliers Name":"Swapnil"
+        
           
          }
 
