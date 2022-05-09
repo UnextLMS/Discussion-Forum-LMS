@@ -10,7 +10,7 @@ Payload to Target All Members under a course and program plan
          "Target": "All",
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
+         "CourseOfferingId": "a0B9D000006MGXYUA4",
          "DiscussionForumId":"HI78",
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
@@ -36,11 +36,11 @@ Payload to Target specific set of students
         },
         "values": 
         {
-         "ContactId": "SF 18 Digit Id",
+         "ContactId": "0039D00000FcpjHQAR",
          
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
+         "CourseOfferingId": "a0B9D000006MGXYUA4",
          "DiscussionForumId":"HI78",
        
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
@@ -68,11 +68,11 @@ Payload to Target specific group of students based on groupid
         },
         "values": 
         {
-         "groupId": "SF 18 Digit Id",
+         "groupId": "0039D00000FcpjHQAR",
          
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
+         "CourseOfferingId": "a0B9D000006MGXYUA4",
          "DiscussionForumId":"HI78",
        
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
