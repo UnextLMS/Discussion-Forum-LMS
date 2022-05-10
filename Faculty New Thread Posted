@@ -1,0 +1,21 @@
+[
+    {
+        "keys": {
+           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
+        },
+        "values": 
+        {
+         "UserId":"a0j9D0000043ey7QAA",
+         "ForumTitle": "ML Discussion",
+         
+         "CourseOfferingId": "SF 18 digit Id",
+         "DiscussionForumId":"HI78",
+         "LearnerName":"Swapnil",
+         "Link":"www.quizrequest.com",
+         "Action": "Thread Posted",
+         
+          
+         }
+
+    }
+]
