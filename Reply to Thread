@@ -7,13 +7,14 @@
         },
         "values": 
         {
-         "ContactId": "SF 18 Digit Id",
+         "ContactId": "0039D00000G5W0jQAF",
          "ForumTitle": "ML Discussion",
          "ForumLink": "www.mldf.com",
-         "CourseOfferingId": "SF 18 digit Id",
+         "CourseOfferingId": "a0B9D000006MGXYUA4",
          "DiscussionForumId":"HI78",
          "Action": "Thread Reply",
-         "Repliers Name":"Swapnil"
+         "Repliers Name":"Swapnil",
+         "ThreadLink":"www.dfthreadlink.com"
         
           
          }
