@@ -37,12 +37,12 @@ Payload to Target specific set of students
         "values": 
         {
          "ContactId": "0039D00000FcpjHQAR",
-         
-         "ForumTitle": "ML Discussion",
-         "ForumLink": "www.mldf.com",
+         "EntItytype":"DF"
+         "EntityTitle": "ML Discussion",
+         "entityLink": "www.mldf.com",
          "CourseOfferingId": "a0B9D000006MGXYUA4",
-         "DiscussionForumId":"HI78",
-       
+         "entityId":"HI78",
+         
          "CreatedDate":"04-10-2022" //Discussion Forum Created date in LMS
          "StartDate": "04-12-2022",
          "EndDate": "04-14-2022",
