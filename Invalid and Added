@@ -23,7 +23,7 @@
            
             "Action": "Published/Added",
           
-            "GroupId":"a0W9D000003IYK8UAO"
+            "GroupId":"a0W9D000003IYK8UAO" //Target=All //ContactId
            
         }
     }
